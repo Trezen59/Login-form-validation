@@ -1,0 +1,18 @@
+.form{
+    width: 20%;
+    background-color: rgba(0, 0, 0, 0.568);
+    margin: auto;
+    margin-top: 10%;
+    padding: 20px;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+.form h1{
+    text-align: center;
+}
+body{
+    background-color: grey;
+}
+.submit{
+    background-color: white;
+}
